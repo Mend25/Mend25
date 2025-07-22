@@ -6,13 +6,9 @@
   🚀 Sempre em busca de conhecimento 
 </p>
 
----
-
 ## 🧠 Sobre mim
 
-Tenho domínio das linguagens **C**, **C++** e **Java**, com experiência prática em projetos envolvendo **Arduino**, **FPGA**, **Assembly** e **Verilog**. Atuei em trabalhos em equipes, desenvolvendo soluções criativas e aprimorando habilidades de **colaboração** e **resolução de problemas**.
-
----
+Tenho domínio das linguagens **C**, **C++** e **Java**, com experiência prática em **banco de dados relacionais**, com ênfase em **modelagem**, **consultas otimizadas** e uso de **SQL**. Atuei em diversos trabalhos em grupo, desenvolvendo soluções criativas e aprimorando habilidades de **colaboração** e **resolução de problemas**.
 
 ## 🛠️ Tecnologias
 
@@ -55,8 +51,7 @@ Tenho domínio das linguagens **C**, **C++** e **Java**, com experiência práti
 - Sistemas Críticos
 - Aplicações Web
 - Machine Learning
-  
----
+
 
 ## 📊 GitHub Stats
 
@@ -66,7 +61,6 @@ Tenho domínio das linguagens **C**, **C++** e **Java**, com experiência práti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mend25&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
----
 
 ## 🚀 Projetos de Destaque
 
@@ -77,13 +71,11 @@ Aplicação web de mensagens em tempo real, utilizando tecnologias modernas de b
 Simulação formal de um sistema de controle de elevador, **especificado com o método B** utilizando a ferramenta **Atelier B** e verificado com **ProB**. Projeto com ênfase em **modelagem formal**, **invariantes** e **correção de software crítico**.
 
 ### 🗃️ Banco de Dados GDI
-Projeto de modelagem de um mini mundo com foco acadêmico:
+Projeto de modelagem de um mini mundo:
 - **Modelo conceitual**
 - **Modelo lógico-relacional**
 - **Consultas SQL complexas**
 Realizado como parte da disciplina de **Gerência de Dados e Informação (GDI)**, com aplicação prática em **Oracle Live**.
-
----
 
 ## 📫 Conecte-se Comigo
 
