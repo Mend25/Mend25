@@ -52,16 +52,6 @@ Tenho domínio das linguagens **C**, **C++** e **Java**, com experiência práti
 - Aplicações Web
 - Machine Learning
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mend25&show_icons=true&theme=tokyonight" alt="Victor Mendonça GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mend25&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
-
 ## 🚀 Projetos de Destaque
 
 ### 📨 Go Message
